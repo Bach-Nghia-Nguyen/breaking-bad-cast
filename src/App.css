@@ -96,7 +96,7 @@ input[type="text"] {
 }
 
 .card:hover .card-inner {
-  transform: rotateY(100deg);
+  transform: rotateY(180deg);
 }
 
 .card-front,
