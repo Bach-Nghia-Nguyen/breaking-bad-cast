@@ -1,7 +1,6 @@
-import React, { useState } from "react";
+import React from "react";
 
 const Search = ({ query, setQuery }) => {
-  // const [text, setText] = useState("");
   return (
     <section className="search">
       <form>
